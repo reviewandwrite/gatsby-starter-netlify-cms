@@ -2,7 +2,7 @@
 templateKey: index-page
 title: REVIEW AND WRITE
 image: /img/original-size-soumya-writes.jpg
-heading: Great coffee with a conscience
+heading: "REVIEW AND WRITE "
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
