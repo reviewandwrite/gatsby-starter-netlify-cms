@@ -10,13 +10,17 @@ mainpitch:
     I’ll do you the job of mere descriptions, I’ll do you the job of defining
     that all that I am is simply just blood and bones.
 
+
 description: " I’ll do you the job of letting you know, in the interest of this
   page, are definitely tales of folklore."
 intro:
   blurbs:
     - image: /img/img_20220524_192013_254.jpeg
       text: >
-        
+        I deem myself to be a writer and this an opportunity. 
+
+        While I don’t know how good the former is, I deem the latter colossal.
+
         Hi, I am Soumya Bansal, who essentially writes book reviews and short extracts as a side hobby.
 
         Hi, thank you for visiting.
