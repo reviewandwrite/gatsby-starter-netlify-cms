@@ -3,7 +3,7 @@ templateKey: index-page
 title: REVIEW AND WRITE
 image: /img/original-size-soumya-writes.jpg
 heading: "REVIEW AND WRITE "
-subheading: Support sustainable farming while enjoying a cup
+subheading: "Book Tok's favorites unraveled "
 mainpitch:
   title: Why Kaldi
   description: >
