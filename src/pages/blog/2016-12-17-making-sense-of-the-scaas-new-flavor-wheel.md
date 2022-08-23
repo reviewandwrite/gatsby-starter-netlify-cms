@@ -26,7 +26,7 @@ tags:
 
 <!--StartFragment-->
 
-> ##### ***“It stops here with me and you, IT ENDS WITH US.”***
+> # ***“It stops here with me and you, IT ENDS WITH US.”***
 
                              
 
@@ -54,7 +54,7 @@ It has been no less than 24 hours that a lot of me is aching and twinging for cl
 
 <!--StartFragment-->
 
-> ##### ***“There is no such thing as bad people, Lily. We are all just people who do bad things.”***
+> # ***“There is no such thing as bad people, Lily. We are all just people who do bad things.”***
 
 <!--EndFragment-->
 
@@ -70,7 +70,7 @@ My preoccupation with Ryle and his demeanor was a nip in the bud as it prevented
 
 <!--StartFragment-->
 
-> ##### ***“Naked truths aren’t always pretty.”***
+> # ***“Naked truths aren’t always pretty.”***
 
 <!--StartFragment-->
 
@@ -90,7 +90,7 @@ I was captivated by the mature, careful love and mash between Ryle and Lily whil
 
 <!--StartFragment-->
 
-> ##### ***“If you ever find yourself in the position to love again, fall in love with me.”***
+> # ***“If you ever find yourself in the position to love again, fall in love with me.”***
 
 <!--StartFragment-->
 
@@ -150,11 +150,11 @@ Last but not the least, I developed an unsettling fixation and attachment for Ry
 
 <!--StartFragment-->
 
-##### **Colleen, thank you for delivering a very heartening as well as a sheerly poignant narrative. You opened my world the way it hasn't been opened before.** 
+### *Colleen, thank you for delivering a very heartening as well as a sheerly poignant narrative. You opened my world the way it hasn't been opened before.* 
 
 
 
-#### ***Colleen, I want to be you when I grow up.***
+## ***Colleen, I want to be you when I grow up.***
 
 
 
