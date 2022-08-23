@@ -12,21 +12,24 @@ mainpitch:
 
 
 description: " I’ll do you the job of letting you know, in the interest of this
-  page, are definitely tales of folklore."
+  page, are definitely tales of folklore.I deem myself to be a writer and this
+  an opportunity. While I don’t know how good the former is, I deem the latter
+  colossal."
 intro:
   blurbs:
     - image: /img/img_20220524_192013_254.jpeg
-      text: >
-        I deem myself to be a writer and this an opportunity. 
+      text: >+
+        I'm a high school grad, who's favorite hobby is creating. I hope you
+        have a blast! 
 
-        While I don’t know how good the former is, I deem the latter colossal.
+        Don't forget to subscribe to the monthly newsletter.
 
-        Hi, I am Soumya Bansal, who essentially writes book reviews and short extracts as a side hobby.
-
-        Hi, thank you for visiting.
   heading: THIS PAGE
-  description: I deem myself to be a writer and this an opportunity. While I don’t
-    know how good the former is, I deem the latter colossal.
+  description: >-
+    Hi, I am Soumya Bansal, who essentially writes book reviews and short
+    extracts as a side hobby.
+
+    Hi, thank you for visiting.
 main:
   heading: Great coffee with no compromises
   description: >
