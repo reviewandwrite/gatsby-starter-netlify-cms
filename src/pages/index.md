@@ -24,7 +24,7 @@ intro:
 
         Don't forget to subscribe to the monthly newsletter.
 
-    - image: /img/monthly-review-room.jpg
+    - image: /img/monthly-review-room-1-.jpg
       text: >-
         Subscribe to the monthly Newsletter, "THE REVIEW ROOM".
 
