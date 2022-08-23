@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: REVIEW AND WRITE
-image: /img/original-size-soumya-writes.jpg
+image: /img/review-and-write.jpg
 heading: "REVIEW AND WRITE "
 subheading: "Book Tok's favorites unraveled "
 mainpitch:
