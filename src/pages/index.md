@@ -31,7 +31,7 @@ intro:
         Which provides absolutely spoiler exempted reviews of BookTok's timely trends.
     - image: /img/poetry-abode.jpg
       text: |-
-        Welcoming you to all that makes us. Summative and Simply, "Words".
+        Welcoming you to all that makes us. In Summation and Simply, "Words".
         I post here all that I create, Thank you for reading.
   heading: THIS PAGE
   description: >-
