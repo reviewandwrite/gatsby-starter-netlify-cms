@@ -17,13 +17,6 @@ description: " I’ll do you the job of letting you know, in the interest of thi
   colossal."
 intro:
   blurbs:
-    - image: /img/img_20220524_192013_254.jpeg
-      text: >+
-        I'm a high school grad, who's favorite hobby is creating. I hope you
-        have a blast! 
-
-        Don't forget to subscribe to the monthly newsletter.
-
     - image: /img/monthly-review-room-1-.jpg
       text: >-
         Subscribe to the monthly Newsletter, "THE REVIEW ROOM".
