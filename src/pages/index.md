@@ -12,7 +12,7 @@ mainpitch:
 
 
 description: " I’ll do you the job of letting you know, in the interest of this
-  page, are definitely tales of folklore.I deem myself to be a writer and this
+  page, are definitely tales of folklore. I deem myself to be a writer and this
   an opportunity. While I don’t know how good the former is, I deem the latter
   colossal."
 intro:
@@ -24,6 +24,15 @@ intro:
 
         Don't forget to subscribe to the monthly newsletter.
 
+    - image: /img/monthly-review-room.jpg
+      text: >-
+        Subscribe to the monthly Newsletter, "THE REVIEW ROOM".
+
+        Which provides absolutely spoiler exempted reviews of BookTok's timely trends.
+    - image: /img/poetry-abode.jpg
+      text: |-
+        Welcoming you to all that makes us. Summative and Simply, "Words".
+        I post here all that I create, Thank you for reading.
   heading: THIS PAGE
   description: >-
     Hi, I am Soumya Bansal, who essentially writes book reviews and short
