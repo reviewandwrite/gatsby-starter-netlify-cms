@@ -30,7 +30,7 @@ tags:
 
                              
 
-That is exactly where the anecdote should have ended for me, however this precisely is where it absolutely didn't, far from it. It stayed and boldly hung along the girth of my brain stem to corrupt my matrix, and it is going to stay lodged in my heart for-basically-ever.
+That is exactly where the anecdote should have ended for me, however this precisely is where it absolutely didn't, far from it. It stayed, and boldly hung along the girth of my brain stem to corrupt my matrix, and it is going to stay lodged in my heart *for-basically-ever.*
 
 `This was my very first CoHo book and alas would serve as the last one for a brief period. I’m mostly dumbfounded, severely crushed and absolutely knocked all ways.`
 
@@ -40,11 +40,11 @@ For me interrelation has always been about intimacy and soft, untroubled love. F
 
 
 
-All and sundry should be the second hand spectator to the monumental allegory of this novel, for the first hand testimony shall always be given by the wordsmith and her mother. I am in awe of the author’s strength, her mother’s strength, and her father. The book is written to not just be read, but to dissolve into cement along with.
+All and sundry should be the second hand spectator to the monumental allegory of this novel, for the first hand testimony shall always be given by the wordsmith and her mother. I am in awe of the author’s strength, her mother’s strength, and her father. ***The book is written to not just be read, but to dissolve into cement along with.***
 
 
 
-It has been no less than 24 hours that a lot of me is aching and twinging for closure, especially for Ryle. Since the microscopic nanosecond  that I started to read the book, my heart became his minion. Ryle was the whole caboodle or the epitome of the quintessential knight in shining armor. 
+It has been no less than 24 hours that a lot of me is aching and twinging for closure, especially for *Ryle*. Since the microscopic nanosecond  that I started to read the book, my heart became his minion. Ryle was the whole caboodle or the epitome of the *quintessential knight in shining armor.* 
 
 
 
@@ -66,7 +66,13 @@ It was indisputably a lot to take in when the first interlude of maltreatment wa
 
 
 
-My preoccupation with Ryle and his demeanor was a nip in the bud as it prevented me from feeling Atlas. I needed more of “adult Atlas”. But that was not what Colleen intended to deliver now, did she? For the most part and the most requisite part, never in the span of 18 very prolonged years have I ever been more conflicted and at odds about my feelings for a character. But then, that was exactly Colleen Hoover’s forethought, calculation and intention. She won me over, every inch, all over. 
+My preoccupation with Ryle and his demeanor was a nip in the bud as it prevented me from feeling Atlas. I needed more of *“adult Atlas”.* But that was not what Colleen intended to deliver now, did she? 
+
+
+
+For the most part and the most requisite part, never in the span of 18 very prolonged years have I ever been more conflicted and at odds about my feelings for a character. But then, that was exactly Colleen Hoover’s forethought, calculation and intention. 
+
+`She won me over, every inch, all over. `
 
 <!--StartFragment-->
 
@@ -74,7 +80,7 @@ My preoccupation with Ryle and his demeanor was a nip in the bud as it prevented
 
 <!--StartFragment-->
 
-No, naked truths merely are not for a moment pretty. Or in this book, they were not. But now I have my new “blue-eyed text” from the script. Ryle, changed my perspective. Lily adjusted my illusory assumptions about our big bad kinsfolk and Atlas infused my core with exactly that. I don't know how to feel, like I said, everything and everyone is incongruous.
+No, naked truths merely are not for a moment pretty. Or in this book, they were not. But now I have my new “blue-eyed text” from the script. *Ryle, changed my perspective. Lily adjusted my illusory assumptions about our big bad kinsfolk and Atlas infused my core with exactly that.* I don't know how to feel. Like I said, everything and everyone is incongruous.
 
 
 
@@ -100,11 +106,11 @@ A paramount and substantial reason why I could not connect and identify with Atl
 
 `“Anyone who opens an Atlas, wants everything at once, without limits- the whole world. And I wanted that atlas.”`
 
-I basically live in unending eagerness to devour ***IT STARTS WITH US***- the sequel, the essential condition to present progressing life in order to primarily establish a connection with Atlas. 
+I basically live in unending eagerness to devour*** [IT STARTS WITH US](https://www.colleenhoover.com/)***- the sequel, the essential condition to present progressing life in order to primarily establish a connection with Atlas. 
 
 
 
-Reading has never meant anything less than the mortal coin for me. Through this imaginative and soothing world can I even walk a bridge fueled with fire. Bear feet. Soulfully naked.
+Reading has never meant anything less than the mortal coin for me. Through this imaginative and soothing world can I even walk a bridge fueled with fire. Bare feet. Soulfully naked.
 
 
 
@@ -139,8 +145,8 @@ Last but not the least, I developed an unsettling fixation and attachment for Ry
 >
 >
 > The readers recognise you, they just don't understand you. 
->
->
+
+
 
 <!--EndFragment-->
 
@@ -155,6 +161,12 @@ Last but not the least, I developed an unsettling fixation and attachment for Ry
 
 
 ## ***Colleen, I want to be you when I grow up.***
+
+
+
+
+
+SOUMYA BANSAL
 
 
 
