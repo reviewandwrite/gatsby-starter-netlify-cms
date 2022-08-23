@@ -1,33 +1,161 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: IT ENDS WITH US
+date: 2022-08-23T11:57:08.265Z
+description: >
+  It is only kosher that the first blog post is in the name of that tome which
+  currently holds the most tempestuous sentiments on BookTok, In life and in the
+  center of our nucleus. 
+
+  This in fact is Colleen Hoover’s most advocated book, the one that I couldn’t put down even through muscle. 
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/img_20220724_234039-1-.png
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![ ](/img/img_20220724_234039-1-.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+<!--StartFragment-->
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+> To construe this articulate paragon, a ***SPOILER ALERT*** shall now be in effect.
 
-## What the updates mean to you
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+<!--EndFragment-->
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+<!--StartFragment-->
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+> ##### ***“It stops here with me and you, IT ENDS WITH US.”***
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+                             
+
+That is exactly where the anecdote should have ended for me, however this precisely is where it absolutely didn't, far from it. It stayed and boldly hung along the girth of my brain stem to corrupt my matrix, and it is going to stay lodged in my heart for-basically-ever.
+
+`This was my very first CoHo book and alas would serve as the last one for a brief period. I’m mostly dumbfounded, severely crushed and absolutely knocked all ways.`
+
+<!--StartFragment-->
+
+For me interrelation has always been about intimacy and soft, untroubled love. For the first half of the book, Colleen Hoover tingled my soft spots and in the next half with the same vigor she absolutely gnawed at them. All walls are down. It’s a very colossal and mammoth action for my heart to weep for love, life and damaged ambitions. The blood and bones that make me haven't felt this profoundly in consequence to love, and this wasn’t even my courtship enchantment.
+
+
+
+All and sundry should be the second hand spectator to the monumental allegory of this novel, for the first hand testimony shall always be given by the wordsmith and her mother. I am in awe of the author’s strength, her mother’s strength, and her father. The book is written to not just be read, but to dissolve into cement along with.
+
+
+
+It has been no less than 24 hours that a lot of me is aching and twinging for closure, especially for Ryle. Since the microscopic nanosecond  that I started to read the book, my heart became his minion. Ryle was the whole caboodle or the epitome of the quintessential knight in shining armor. 
+
+
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+> ##### ***“There is no such thing as bad people, Lily. We are all just people who do bad things.”***
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+If you are a member of the female sex, abuse and perversion of any kind should be non negotiable and walking away from it the sine qua none of healing and further alleviation. Like an inviolable rule of thumb. Walk away or be walked all over..
+
+It was indisputably a lot to take in when the first interlude of maltreatment was described. My heart ruptured for Lily, it fractured for their chemistry infused love, and mostly and gravely my heart broke for Ryle. Why you stupid shitty heart?
+
+
+
+My preoccupation with Ryle and his demeanor was a nip in the bud as it prevented me from feeling Atlas. I needed more of “adult Atlas”. But that was not what Colleen intended to deliver now, did she? For the most part and the most requisite part, never in the span of 18 very prolonged years have I ever been more conflicted and at odds about my feelings for a character. But then, that was exactly Colleen Hoover’s forethought, calculation and intention. She won me over, every inch, all over. 
+
+<!--StartFragment-->
+
+> ##### ***“Naked truths aren’t always pretty.”***
+
+<!--StartFragment-->
+
+No, naked truths merely are not for a moment pretty. Or in this book, they were not. But now I have my new “blue-eyed text” from the script. Ryle, changed my perspective. Lily adjusted my illusory assumptions about our big bad kinsfolk and Atlas infused my core with exactly that. I don't know how to feel, like I said, everything and everyone is incongruous.
+
+
+
+I was captivated by the mature, careful love and mash between Ryle and Lily while I secretly maintained a soft crush on Atlas’s and Lily’s puppy love dynamic. If Atlas had more word time, attachment for him would have surpassed the one that I currently bear for Ryle. Oh, it was over for Ryle.
+
+
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+> ##### ***“If you ever find yourself in the position to love again, fall in love with me.”***
+
+<!--StartFragment-->
+
+A paramount and substantial reason why I could not connect and identify with Atlas was because it reminded me more of my calf love; soft, tender yet massively rough and distraught. (Would not recommend xd)
+
+
+
+`“Anyone who opens an Atlas, wants everything at once, without limits- the whole world. And I wanted that atlas.”`
+
+I basically live in unending eagerness to devour ***IT STARTS WITH US***- the sequel, the essential condition to present progressing life in order to primarily establish a connection with Atlas. 
+
+
+
+Reading has never meant anything less than the mortal coin for me. Through this imaginative and soothing world can I even walk a bridge fueled with fire. Bear feet. Soulfully naked.
+
+
+
+To say the least, the book will disorder and bungle the wired mush embedded in your cerebrum, to say the least, that is. But on a solemn note, it is a must read. 
+
+
+
+And with that I come to an end of this explicit plethora of visual sorrow by giving it a measure of` 4.5/5` for depositing me and a million other female readers in Lily’s shoes as well as that of Colleen’s mother’s shoes to identify and bracket with that division of women who were not able to walk away or with those that did. 
+
+
+
+`It shall never be black and white again.`
+
+
+
+Last but not the least, I developed an unsettling fixation and attachment for Ryle, so it’s only fair that I write my last words of this review to my favorite ever dramatis personae (as well as to all those out there who have heedlessly become ***“a Ryle”.***)
+
+<!--StartFragment-->
+
+> ***Dear Ryle,*** 
+>
+> Not a lot of us have any positive regard for your actions but all of us have a soft spot, or an exposed nerve…. A tender spot? 
+>
+>
+>
+> I don't detest you but I also do not commiserate with you. You perplex me, and that? That I detest. 
+>
+>
+>
+> Your intentions were never adulterated and immoral, But your actions? They deflected my moral compass. Pertain to your contusions and never succumb to your outrage. 
+>
+>
+>
+> The readers recognise you, they just don't understand you. 
+>
+>
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+##### **Colleen, thank you for delivering a very heartening as well as a sheerly poignant narrative. You opened my world the way it hasn't been opened before.** 
+
+
+
+#### ***Colleen, I want to be you when I grow up.***
+
+
+
+<!--EndFragment-->
