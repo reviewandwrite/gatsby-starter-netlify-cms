@@ -15,7 +15,7 @@ const Footer = () => {
           <img
             src={logo}
             alt="Kaldi"
-            style={{ width: "14em", height: "10em" }}
+            style={{ width: "28em", height: "15em" }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
