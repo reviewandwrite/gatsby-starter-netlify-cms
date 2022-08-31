@@ -9,13 +9,13 @@ mainpitch:
   description: >+
     Hi, doing you the job of mere descriptions I’ll let you in all dimensions of
     this universe that I'm simply another piece of flesh writing BOOK REVIEWS
-    for R and R
+    for R and R.
 
 
 description: " I’ll also let you know, in the interest of this page, are
   definitely tales of folklore and fiction. I deem myself to be a writer and
-  this an opportunity. While I don’t know how good the former is, I deem the
-  latter colossal."
+  this an opportunity. While I don’t know how good the former is, I faithfully
+  deem the latter colossal."
 intro:
   blurbs:
     - image: /img/monthly-review-room.png
