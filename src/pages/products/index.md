@@ -40,5 +40,6 @@ pricing:
     - plan: " "
       price: "0"
       description: " "
-      items: []
+      items:
+        - reviewandwrite
 ---
