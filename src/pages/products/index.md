@@ -38,8 +38,7 @@ pricing:
     through "Contact" Dropdown on the navigation bar. '
   plans:
     - plan: " "
-      price: " "
+      price: "0"
       description: " "
-      items:
-        - .
+      items: []
 ---
