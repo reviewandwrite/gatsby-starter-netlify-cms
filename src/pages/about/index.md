@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: About Our Folio
 ---
-![ ]( " ")
+![]()
 
 Hi, I'm a high school grad from **New Delhi, India.**
 
@@ -15,6 +15,6 @@ This page essentially focuses on an unbiased construal of Booktok's favourite pa
 
 Other than starkly reviewing publications....
 
-> #####  Hey! I also write sometimes!!
+> ##### Hey! I also write sometimes!!
 
 Welcome to *[reviewandwrite](https://www.reviewandwrite.com/),* I really hope you enjoy the ride.
