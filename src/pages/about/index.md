@@ -11,7 +11,9 @@ Mere words can have a basket full of impact on people and situations. Mere words
 
 I'm here to deliver, **`"mere words"`**
 
-This page essentially focuses on an unbiased construal of Booktok's favourite paperbacks with next to minor spoilers.
+###### This page essentially focuses on an unbiased construal of Booktok's favourite paperbacks with next to minor spoilers, i.e. you'll find detailed and descriptive--
+
+#  Book Reviews!
 
 Other than starkly reviewing publications....
 
