@@ -7,14 +7,15 @@ subheading: "Book Tok's favorites unraveled "
 mainpitch:
   title: About Me
   description: >+
-    I’ll do you the job of mere descriptions, I’ll do you the job of defining
-    that all that I am is simply just blood and bones.
+    Hi, doing you the job of mere descriptions I’ll let you in all dimensions of
+    this universe that I'm simply another piece of flesh writing BOOK REVIEWS
+    for R and R
 
 
-description: " I’ll do you the job of letting you know, in the interest of this
-  page, are definitely tales of folklore. I deem myself to be a writer and this
-  an opportunity. While I don’t know how good the former is, I deem the latter
-  colossal."
+description: " I’ll also let you know, in the interest of this page, are
+  definitely tales of folklore and fiction. I deem myself to be a writer and
+  this an opportunity. While I don’t know how good the former is, I deem the
+  latter colossal."
 intro:
   blurbs:
     - image: /img/monthly-review-room.png
@@ -36,7 +37,7 @@ main:
   heading: "REVIEW AND WRITE "
   description: " Brought to you by High school grads!"
   image1:
-    alt: Subscribe to the Reading Radar!!
+    alt: BOOK REVIEWS ON THE READIN RADAR!
     image: /img/family-house-2-.jpg
   image2:
     alt: Unfiltered and Unbiased Critique of Booktok's "à la mode"
