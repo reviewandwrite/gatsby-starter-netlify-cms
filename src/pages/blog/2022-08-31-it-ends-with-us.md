@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "IT ENDS WITH US "
+title: IT ENDS WITH US- Book Review
 date: 2022-08-31T06:37:53.372Z
 description: >-
   It is only kosher that the first blog post is in the name of that tome which
