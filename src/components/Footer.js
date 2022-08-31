@@ -54,19 +54,19 @@ const Footer = () => {
                 </section>
               </div>
               <!-- <div className="column is-4 social">-->
-                <!-- <a title="facebook" href="https://facebook.com">
-                  <!-- <img
-                   <!--  src={facebook}
-                   <!--  alt="Facebook"
-                    <!-- style={{ width: "1em", height: "1em" }}
-                 <!--  />
-                <!-- </a>
-                <!-- <a title="twitter" href="https://twitter.com">
-                <!--   <img
-                  <!--   className="fas fa-lg"
-                   <!--  src={twitter}
-                   <!--  alt="Twitter"
-                   <!--  style={{ width: "1em", height: "1em" }}
+                <!-- <a title="facebook" href="https://facebook.com">-->
+                  <!-- <img-->
+                   <!--  src={facebook}-->
+                   <!--  alt="Facebook"-->
+                    <!-- style={{ width: "1em", height: "1em" }}-->
+                 <!--  />-->
+                <!-- </a>-->
+                <!-- <a title="twitter" href="https://twitter.com">-->
+                <!--   <img-->
+                  <!--   className="fas fa-lg"-->
+                   <!--  src={twitter}-->
+                   <!--  alt="Twitter"-->
+                   <!--  style={{ width: "1em", height: "1em" }}-->
                  <!--  />-->
                 </a>
                 <a title="instagram" href="https://www.instagram.com/reviewandwrite/">
