@@ -3,11 +3,7 @@ templateKey: about-page
 path: /about
 title: About the Author
 ---
-![Hi, I'm a high school grad from New Delhi, India.](/img/img_20220524_192013_254.webp "SOUMYA BANSAL")
-
-
-
-
+![Hi, I'm a high school grad from New Delhi, India.]( "SOUMYA BANSAL")
 
 Hi, I'm a high school grad from New Delhi, India.
 
