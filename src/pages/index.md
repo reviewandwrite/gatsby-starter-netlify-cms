@@ -33,19 +33,15 @@ intro:
 
     Hi, thank you for visiting.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: "REVIEW AND WRITE "
+  description: " Brought to you by High school grads!"
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Subscribe to the Reading Radar!!
+    image: /img/family-house-2-.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Unfiltered and Unbiased Critique of Booktok's "à la mode"
+    image: /img/img_20220724_234039-1-.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: We hope you have a great ride!
+    image: /img/img20220813154710.jpg
 ---
