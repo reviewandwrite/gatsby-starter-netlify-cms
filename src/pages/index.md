@@ -17,7 +17,7 @@ description: " I’ll do you the job of letting you know, in the interest of thi
   colossal."
 intro:
   blurbs:
-    - image: /img/monthly-review-room-1-.jpg
+    - image: /img/monthly-review-room.png
       text: >-
         Subscribe to the monthly Newsletter, "THE REVIEW ROOM".
 
