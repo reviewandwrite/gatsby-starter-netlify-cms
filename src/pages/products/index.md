@@ -3,7 +3,7 @@ heading: NEWSLETTER (The Synopsis)
 path: /products
 templateKey: product-page
 title: " "
-image: /img/family-house-2-.jpg
+image: /img/family-house-3-.jpg
 description: The Monthly Bulletin features short and exclusive narration of the
   paperbacks on the "Reading Radar" that following month, to let you know what
   to always expect! Other than solely just  scrutinizing paragons, We also bring
