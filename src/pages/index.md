@@ -7,9 +7,9 @@ subheading: "Book Tok's favorites unraveled "
 mainpitch:
   title: About Me
   description: >+
-    Hi, doing you the job of mere descriptions I’ll let you in all dimensions of
-    this universe that I'm simply another piece of flesh writing BOOK REVIEWS
-    for R and R.
+    Hi, doing you the job of mere descriptions I’ll let you know in all
+    dimensions of this universe that I'm simply another piece of flesh writing
+    BOOK REVIEWS for R and R.
 
 
 description: " I’ll also let you know, in the interest of this page, are
