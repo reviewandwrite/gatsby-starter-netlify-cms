@@ -17,4 +17,6 @@ Other than starkly reviewing publications....
 
 > ##### Hey! I also write sometimes!!
 
+Subscribe to the [monthly newsletter](https://www.reviewandwrite.com/contact) here!
+
 Welcome to *[reviewandwrite](https://www.reviewandwrite.com/),* I really hope you enjoy the ride.
