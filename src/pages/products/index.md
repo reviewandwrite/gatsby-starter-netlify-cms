@@ -28,11 +28,18 @@ main:
   image3:
     alt: " "
     image: /img/img_20220727_120018_231.webp
-testimonials: []
+testimonials:
+  - quote: “The only question that remains is, Which truth was she manipulating?”
+    author: Colleen Hoover
 full_image: /img/img_20220724_234039-1-.png
 pricing:
   heading: Monthly Reading Radar
   description: 'To get your copy of the Monthly Review Room newsletter, Contact us
     through "Contact" Dropdown on the navigation bar. '
-  plans: []
+  plans:
+    - plan: " "
+      price: " "
+      description: " "
+      items:
+        - .
 ---
