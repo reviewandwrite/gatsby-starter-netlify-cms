@@ -7,7 +7,7 @@ description: >-
   currently holds the most tempestuous sentiments on BookTok, In life and in the
   center of our nucleus. 
 
-  This in fact is Colleen Hoover’s most advocated book, the one that I couldn’t put down even through muscle. 
+  This in fact is Colleen Hoover’s most advocated book, the one that I couldn’t put down even through muscle. So let bygones be bygones If I dive too deeply in this Book Review!
 featuredpost: true
 featuredimage: /img/img_20220724_234039-1-.png
 tags:
