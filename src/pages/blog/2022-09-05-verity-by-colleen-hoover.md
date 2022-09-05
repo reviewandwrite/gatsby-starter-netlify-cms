@@ -14,10 +14,6 @@ featuredimage: /img/img_20220905_180229.jpg
 ---
 ![](/img/img_20220905_180229.jpg)
 
-
-
-
-
 <!--StartFragment-->
 
 To construe this articulate paragon, a **MAJOR SPOILER ALERT** shall now be in effect.
@@ -36,7 +32,9 @@ Which in turn leads me to question :
 
 > ***What the hell did I just read?***
 >
-> ###### `Oh boy!`I unquestionably understand the hype around this book now, and I am unquestionably moved by it to whatever you think should be the highest degree of being moved by a *300 page publication.* 
+> `Oh boy!`
+>
+> I unquestionably understand the hype around this book now, and I am unquestionably moved by it to whatever you think should be the highest degree of being moved by a *300 page publication.* 
 
 I could not *`AT ALL`* get myself to wrap my head around any of the given characters.
 
@@ -66,7 +64,7 @@ Out of the 4 endings that I prophesied in my head after I put this novel under i
 
 I tried really hard to get into Verity’s shoes, maybe commiserate with her a little. But I just couldn't get myself to think from that parallax. I mean,
 
-> ##### \* **CAN YOU BLAME ME?*** 
+> #####  **CAN YOU BLAME ME?** 
 
 <!--StartFragment-->
 
@@ -86,11 +84,11 @@ I’m not team letter, don’t read this in that virtue. But I’m not team manu
 
 There is a side that I want to believe and a side that just makes a little more sense.
 
-There is a side that gives us the **“happily ever after”** narrative and a side that elaborates the **ruin of a family of five.**
+There is a side that gives us the **“happily ever after”** narrative and a side that elaborates the "**ruin of a family of five."**
 
 So, yes. I am most definitely battling the issue of choosing sides at the moment.
 
-###### Yes, I’m not very good at it. `(team manuscript ftw)`
+Yes, I’m not very good at it. `(team manuscript ftw)`
 
 <!--EndFragment-->
 
@@ -131,7 +129,7 @@ I’m going to have to give a fair warning of an age rating of ***18+*** on this
 
 > The house was dingy, the plot was petrifying and the characters really needed therapy. 
 >
-> ##### `What else makes a novel more marvelous?`
+> #### `What else makes a novel more marvelous?`
 >
 > *PS. I love how no one was innocent and if caught all would have faced serious jail time.* 
 
@@ -141,7 +139,7 @@ Last but not the least, 
 
 > ### ***“I fell in that moment, not in love. I just….. fell***  
 >
-> ###### *\- Verity Crawford* 
+> *\- Verity Crawford* 
 >
 > ## ***Colleen, I fell in this book, yes in love. Completely In love.***
 >
@@ -151,6 +149,6 @@ Last but not the least, 
 
 <!--EndFragment-->
 
-<!--EndFragment-->ment-->
+<!--EndFragment-->
 
 <!--EndFragment-->
