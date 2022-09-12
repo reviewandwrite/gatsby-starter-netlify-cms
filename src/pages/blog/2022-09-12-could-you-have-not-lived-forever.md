@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Could you have not lived forever?
+title: In echo of you!
 date: 2022-09-12T09:58:50.200Z
 description: In loving memory of grandma <3
 featuredpost: true
