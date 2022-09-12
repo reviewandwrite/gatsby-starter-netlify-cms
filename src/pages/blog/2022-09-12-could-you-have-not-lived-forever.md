@@ -10,9 +10,7 @@ featuredimage: /img/1_vse8jkxl0h4kmkdprkozna.jpeg
 
 <!--StartFragment-->
 
-
-
-> This air surrounding the mattress we wrap ourselves in 
+This air surrounding the mattress we wrap ourselves in,
 
 Has started to break more bones to ashes than build ashes to bones.
 
@@ -38,7 +36,7 @@ Maybe anesthesia could salvage something,
 
 
 
-> This beacon of light that irradiates the walls we condense ourselves into,
+This beacon of light that irradiates the walls we condense ourselves into,
 
 No longer temperates our ices.
 
@@ -66,7 +64,7 @@ it’s colossally plethoric, 
 
 
 
-> By dint of keeping Folklore aside, 
+By dint of keeping Folklore aside, 
 
 No house could ever plod on ponds and not blow on bombardment,
 
@@ -90,14 +88,14 @@ We’re the patrimony of you.
 
 
 
+
+
 > Perspective pondering is perishing,
-
-*“Could you have been here,*” is perishing.
-
-It’s like a cult of eternal renunciation,
-
+>
+> *“Could you have been here,*” is perishing.
+>
+> It’s like a cult of eternal renunciation,
+>
 > *Could you have not lived forever?*
-
-
 
 <!--EndFragment-->
