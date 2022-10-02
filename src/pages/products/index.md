@@ -27,11 +27,11 @@ main:
     image: /img/close.jpg
   image3:
     alt: " "
-    image: /img/img_20220727_120018_231.webp
+    image: /img/img_20220922_153035_534.jpeg
 testimonials:
-  - quote: “The only question that remains is, Which truth was she manipulating?”
-    author: Colleen Hoover
-full_image: /img/img_20220724_234039-1-.png
+  - quote: “I'm worried we got it wrong?”
+    author: "Jonah Sullivan "
+full_image: /img/img_20220924_123949.png
 pricing:
   heading: Monthly Reading Radar
   description: 'To get your copy of the Monthly Review Room newsletter, Contact us
