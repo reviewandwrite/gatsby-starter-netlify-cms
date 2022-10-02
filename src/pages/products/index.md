@@ -21,10 +21,10 @@ main:
     journey. 
   image1:
     alt: " "
-    image: /img/opening.jpg
+    image: /img/open.jpg
   image2:
     alt: " "
-    image: /img/closing.jpg
+    image: /img/close.jpg
   image3:
     alt: " "
     image: /img/img_20220727_120018_231.webp
