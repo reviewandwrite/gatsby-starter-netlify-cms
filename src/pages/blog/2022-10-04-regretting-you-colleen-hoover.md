@@ -10,10 +10,10 @@ description: >+
   nestle my way in.
 
 featuredpost: true
-featuredimage: /img/snapchat-53400730.jpg
+featuredimage: /img/img_20220904_124748_472.jpeg
 tags: []
 ---
-![ ](/img/snapchat-967935903.jpg " ")
+![ ](/img/img_20220904_124748_472.jpeg " ")
 
 <!--StartFragment-->
 
